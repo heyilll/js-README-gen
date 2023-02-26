@@ -1,9 +1,6 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  const text = 
-  `# ${data.title}
+# l
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-blue)
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Table of Contents
   - [Description](#description)
@@ -15,31 +12,26 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ## <a id="description"></a> Description
-  ${data.description}
+  l
     
   ## <a id="installation"></a> Installation
-  ${data.install}
+  l
 
   ## <a id="usage"></a> Usage
-  ${data.usage}
+  l
 
   ## <a id="license"></a> License
-  This application is covered under the ${data.license} license.
+  This application is covered under the MIT license.
 
   ## <a id="contribution-guidelines"></a> Contribution guidelines
-  ${data.contrib}
+  
 
   ## <a id="test-instructions"></a> Test instructions
-  ${data.test}
+  l
 
   ## <a id="questions"></a> Questions
-  GitHub: My username is ${data.github}
-  Link: https://github.com/${data.github}
+  GitHub: My username is l
+  Link: https://github.com/l
 
-  Send any questions to: ${data.email} 
-  `;
-
-  return text
-}
-
-module.exports = generateMarkdown;
+  Send any questions to: l 
+  
