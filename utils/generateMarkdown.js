@@ -33,8 +33,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## <a id="questions"></a> Questions
-  GitHub: My username is ${data.github}
-  Link: https://github.com/${data.github}
+  GitHub: My username is ${data.github} (https://github.com/${data.github})
 
   Send any questions to: ${data.email} 
   `;

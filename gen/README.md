@@ -3,13 +3,15 @@
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contribution guidelines](#contribution-guidelines)
-  - [Instructions](#test-instructions)
-  - [Questions](#questions)
+- [Repository](#repository)
+  - [Table of Contents](#table-of-contents)
+  - [ Description](#-description)
+  - [ Installation](#-installation)
+  - [ Usage](#-usage)
+  - [ License](#-license)
+  - [ Contribution guidelines](#-contribution-guidelines)
+  - [ Test instructions](#-test-instructions)
+  - [ Questions](#-questions)
 
   ## <a id="description"></a> Description
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae justo eget magna fermentum. Nec ultrices dui sapien eget mi proin sed libero.
@@ -30,8 +32,7 @@
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae justo eget magna fermentum. Nec ultrices dui sapien eget mi proin sed libero.
 
   ## <a id="questions"></a> Questions
-  GitHub: My username is heyilll
-  Link: https://github.com/heyilll
+  GitHub: My username is heyilll (https://github.com/heyilll)
 
   Send any questions to: email 
   
