@@ -1,5 +1,20 @@
 # js-README-gen
-## Description
+
+![badge](https://img.shields.io/badge/license-MIT-blue)
+
+## Table of Contents
+- [js-README-gen](#js-readme-gen)
+  - [Table of Contents](#table-of-contents)
+  - [ Description](#-description)
+  - [ Installation](#-installation)
+  - [ Usage](#-usage)
+  - [ License](#-license)
+  - [ Link](#-link)
+  - [ Contribution guidelines](#-contribution-guidelines)
+  - [ Test instructions](#-test-instructions)
+  - [ Questions](#-questions)
+
+## <a id="description"></a> Description
 My task was to create a command-line application using Javascript given starter code. It should generate professional README files through multiple prompts to the user, which saves time for working on their project. The requirements were: 
 
 * Create a command-line application that accepts user input.
@@ -21,14 +36,28 @@ My task was to create a command-line application using Javascript given starter 
     * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
   
-## Installation
+## <a id="installation"></a> Installation
 Run the following commands:
 * npm init -y
 * npm install inquirer
 
-## Usage
+## <a id="usage"></a> Usage
 Run the following command inside the folder:
 * node index.js
 
-## Link
+## <a id="license"></a> License
+This application is covered under the MIT license.
+
+## <a id="link"></a> Link
 https://drive.google.com/file/d/1Rmqp4agdb1Ykdvk45mH-fw1ACnO8iDdi/view?usp=sharing
+
+## <a id="contribution-guidelines"></a> Contribution guidelines
+N/A
+
+## <a id="test-instructions"></a> Test instructions
+N/A
+
+## <a id="questions"></a> Questions
+GitHub: My username is heyilll (https://github.com/heyilll)
+
+Send any questions to: heilpark@me.com
